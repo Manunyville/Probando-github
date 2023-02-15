@@ -1,5 +1,5 @@
 h1{
-    b font-size: 25px;
+    font-size: 25px;
     color: beige;
     background-color: brown;
 }
@@ -9,4 +9,8 @@ h1{
 }
 p{
    color: rgb(129, 89, 89);
+}
+h3{
+    color: rgba(52, 157, 101, 0.637);
+    text-decoration-line: underline;
 }
