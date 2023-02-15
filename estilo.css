@@ -1,7 +1,12 @@
 h1{
+    b font-size: 25px;
+    color: beige;
     background-color: brown;
 }
 *{
     margin: 0;
     padding: 0;
+}
+p{
+   color: rgb(129, 89, 89);
 }
